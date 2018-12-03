@@ -1,7 +1,7 @@
 # 475project
 The final project of EECS 475 from Northwestern University
 
-**Content**: real-time human computer interaction ASL showing
+**Content**: Real-Time Human Computer Interaction ASL Showing
 
 **Author**: Yunan Wu, Jingyan Zhang, Yifan Le, Yaokao Yang
 
@@ -17,7 +17,7 @@ The final project of EECS 475 from Northwestern University
  So what we accutrally do in this project is a recognition of ASL alphabets and find the corrresponded English alphabet. By recognizing the gestures made by human, we can traslate them into English which is more familiar to us in **real time**. Thus, once applied in real life, people who use it can understand those geatures' meaning immediately and communicate without delay and misunderstading.<br>
 
 ## 2. Convolutional Neural Network<br>
-Convolutional neural network (CNN) is a class of deep, feed-forward artificial neural network applied to analyzing visual  imagery using a variation of multilayer perceptrons designed to require minimal preprocessing. In our project, a CNN called  AlexNet was applied, which improves it performance by deepening its model. The model architecture is below.
+Convolutional neural network (CNN) is a class of deep, feed-forward artificial neural network applied to analyzing visual  imagery using a variation of multilayer perceptrons designed to require minimal preprocessing. In our project, a CNN called  AlexNet was applied, which improves it performance by deepening its model. The model architecture is shown below.
 
 We acquired 29,000 color pictures of American sign language (ASL) from the database, 1,000 for each of 29 characters  (including alphabet A to Z, space, delete and nothing). 800 pictures for each character are randomly selected to train the  models, while the rest are used for testing it. The results indicates that the models performed well.  
 However, when applied to ASL photo taken by ourselves, the models did not achieve a high accuracy. As far as we are concerned,  several factors including illumination intensity, color of the background, position and size of the hand may  contribute to the uncertainties.
