@@ -39,5 +39,5 @@ In order to improve the performance, we transformed all RGB images used for trai
 (see in [Alexnet_gray](https://github.com/NancyWu2168/475project/blob/master/cnn_alexnet_version2.0_GrayScale.ipynb))
 ## 4. Real-time Recognition<br>
 Firstly, when we train the model in step 3 and 4, the optimal weights and models are reserved in [.json](https://github.com/NancyWu2168/475project/tree/master/model%20and%20weights%20in%20RGB) and .h5 files(too large to upload), which can be used in real-time detection without training them from scratch again.
-By making use of open-CV, we realized real-time recognition of ASL, where the sign languages are photographed by  the camera of the computer and simultaneously recognised by the trained models. That function enables inputing a sequence of  characters into the computer by performing ASL. Tkinter is used as the platform to do this human computer interaction. Look at (https://github.com/https://github.com/NancyWu2168/475project/blob/master/test.ipynb)
-
+By making use of open-CV, we realized real-time recognition of ASL, where the sign languages are photographed by  the camera of the computer and simultaneously recognised by the trained models. That function enables inputing a sequence of  characters into the computer by performing ASL. Tkinter is used as the platform to do this human computer interaction. Look at 
+ [test_file](https://github.com/NancyWu2168/475project/blob/master/test.ipynb)
