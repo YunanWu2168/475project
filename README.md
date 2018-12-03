@@ -21,6 +21,11 @@ Convolutional neural network (CNN) is a class of deep, feed-forward artificial n
 
 We acquired 29,000 color pictures of American sign language (ASL) from the database, 1,000 for each of 29 characters  (including alphabet A to Z, space, delete and nothing). 800 pictures for each character are randomly selected to train the  models, while the rest are used for testing it. The results indicates that the models performed well.  
 However, when applied to ASL photo taken by ourselves, the models did not achieve a high accuracy. As far as we are concerned,  several factors including illumination intensity, color of the background, position and size of the hand may  contribute to the uncertainties.
+An example of testing the models with taken photos is below:  
+1) As shown in Test1.jpeg, Test3.jpeg and Test4.jpeg, we took photo of our teammate with specific gesture by iPhone.  
+2) We transfer Test1.jpeg into size of 270*270.  
+3) We transfer Test1.jpeg to another format Test1.png and it could not be set as input in our model.  
+4) As shown in Test6.jpeg, we took photo under background of relatively lower color saturation.  
 ## 3. Gray Processing<br>
 In order to improve the performance, we transformed all RGB images used for training and testing into grayscale images with  weighted average. Taken photos are processed with the same method. The results turned out to be significantly better than  those without preprocessing.
 ## 4. Real-time Recognition<br>
