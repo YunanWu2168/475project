@@ -9,7 +9,7 @@
 
 **Time**: 12/2/2018
 
-**video_address**: 
+**Video_address**: 
 
 ## 1. American Sign Language<br>
  American Sign Language (ASL) is a complete, complex language that employs signs made by moving the hands combined with facial expressions and postures of the body. It is the primary language of many North Americans who are hearing impaired and is one of several communication options used by people who are deaf or hard-of-hearing. Normally, sign languages used in daily communication are hand gesture version of phases and even sentences. Yet, there are situations when letters themselves are needed to emphasize or just to spell words. For instance, knowing how to spell words is fundermental for children who are congenitally deaf, and knowing how to spell them in hand gestures is the best way to remember words. Thus out of necessity, comes American Sign Language Alphabets, seen below.<br>
