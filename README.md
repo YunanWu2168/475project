@@ -18,7 +18,11 @@
  Just like English, Each hand gesture in American Sigh Language Alphabets correspond with each one in English alphabets. twenty-six hand gestures differ in shape. As is shown in figure, there are gestures like fist and half fist, sure it is easy for people who master ASL to recognize immediately when seeing them. However, for people who are just starting to learn or have no idea what it is at all, it will be tremendously difficult to understand. In fact, this project is originated from a rising phenomenon that an increasing number of American parents have trouble in teaching their  hearing impaired children English. This project is meant to help these people, which is a large number of for sure, to understand, and even start to learn and practice ASL alphabets. It is believed that the initiation of this project is mutually beneficial for both sides.<br>
  So what we accutrally do in this project is a recognition of ASL alphabets (training images like below) and find the corrresponded English alphabet. By recognizing the gestures made by human, we can traslate them into English which is more familiar to us in **real time**. Thus, once applied in real life, people who use it can understand those geatures' meaning immediately and communicate without delay and misunderstading.<br>
  
+ <div align=center>
+ 
  <img width="800" height="300" src="https://github.com/NancyWu2168/475project/blob/master/picture/ASL.png">
+ 
+ </div>
 
 ## 2. Convolutional Neural Network<br>
 Convolutional neural network (CNN) is a class of deep, feed-forward artificial neural network applied to analyzing visual  imagery using a variation of multilayer perceptrons designed to require minimal preprocessing. In our project, a CNN called  AlexNet was applied, which improves it performance by deepening its model. (see in [Alexnet_RGB](https://github.com/NancyWu2168/475project/blob/master/cnn_alexnet_version1.0_RGB.ipynb))The model architecture is shown below.
