@@ -56,5 +56,6 @@ By making use of open-CV, we realized real-time recognition of ASL, where the si
  [test_file](https://github.com/NancyWu2168/475project/blob/master/test.ipynb)
  
  
- **contact**<br>
+ ##contact<br>
+ 
  if you have any questions or suggestions, please contact: yunanwu2020@u.northwestern.edu
