@@ -1,7 +1,7 @@
 # 475project
 **The final project of EECS 475 from Northwestern University**
 
-**Content**: Real-Time Human Computer Interaction ASL Showing
+**Title**: Real-Time Human Computer Interaction ASL Showing
 
 **Author**: Yunan Wu, Jingyan Zhang, Yifan Le, Yaokao Yang
 
@@ -10,6 +10,8 @@
 **Time**: 12/2/2018
 
 **Video_address**: 
+
+**data**:https://www.kaggle.com/grassknoted/asl-alphabet
 
 ## 1. American Sign Language<br>
  American Sign Language (ASL) is a complete, complex language that employs signs made by moving the hands combined with facial expressions and postures of the body. It is the primary language of many North Americans who are hearing impaired and is one of several communication options used by people who are deaf or hard-of-hearing. Normally, sign languages used in daily communication are hand gesture version of phases and even sentences. Yet, there are situations when letters themselves are needed to emphasize or just to spell words. For instance, knowing how to spell words is fundermental for children who are congenitally deaf, and knowing how to spell them in hand gestures is the best way to remember words. Thus out of necessity, comes American Sign Language Alphabets, seen below.<br>
@@ -52,3 +54,7 @@ In order to improve the performance, we transformed all RGB images used for trai
 Firstly, when we train the model in step 3 and 4, the optimal weights and models are reserved in [.json](https://github.com/NancyWu2168/475project/tree/master/model%20and%20weights%20in%20RGB) and .h5 files(too large to upload), which can be used in real-time detection without training them from scratch again.
 By making use of open-CV, we realized real-time recognition of ASL, where the sign languages are photographed by  the camera of the computer and simultaneously recognised by the trained models. That function enables inputing a sequence of  characters into the computer by performing ASL. Tkinter is used as the platform to do this human computer interaction. Look at 
  [test_file](https://github.com/NancyWu2168/475project/blob/master/test.ipynb)
+ 
+ 
+ 
+ if you have any questions or suggestions, please contact: yunanwu2020@u.northwestern.edu
