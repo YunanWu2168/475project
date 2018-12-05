@@ -9,7 +9,7 @@
 
 **Time**: 12/2/2018
 
-**Video_address**: 
+**Video_address**: https://www.youtube.com/watch?v=22OiwvQ88gc
 
 **data**:https://www.kaggle.com/grassknoted/asl-alphabet
 
