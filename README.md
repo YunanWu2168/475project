@@ -3,9 +3,9 @@
 
 **Title**: Real-Time Human Computer Interaction ASL Showing
 
-**Author**: Yunan Wu, Jingyan Zhang, Yifan Le, Yaokao Yang
+**Author**: Yunan Wu, Jingyan Zhang, Yifan Le, Yaokai Yang
 
-**Organization**: Northwestern University EECS 495
+**Organization**: Northwestern University EECS 475
 
 **Time**: 12/2/2018
 
