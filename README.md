@@ -58,4 +58,5 @@ By making use of open-CV, we realized real-time recognition of ASL, where the si
  
  ## contact<br>
  Our group took a 5-mins video about the whole project, please click  [video](https://www.youtube.com/watch?v=22OiwvQ88gc)
+ 
  if you have any questions or suggestions, please contact: yunanwu2020@u.northwestern.edu
